@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343402753208",
+    "project_id": "prueba-delivery-cd581",
+    "storage_bucket": "prueba-delivery-cd581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343402753208:android:0fa9653540f2834cb6184d",
+        "android_client_info": {
+          "package_name": "com.example.pruebadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343402753208-0rd03cqpe1agp6u0e7vq1he1b013mft7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqkGWI5rheMl_hmWcYzYxIssVB0k2-sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343402753208-0rd03cqpe1agp6u0e7vq1he1b013mft7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
